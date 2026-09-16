@@ -1,0 +1,23 @@
+{
+  "repo": "ulysses-premium",
+  "product": "Ulysses Premium",
+  "kind": "productivity",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new4",
+  "format": "license-md-toolix-v1",
+  "category": "writing",
+  "topics": [
+    "ulysses-writing",
+    "sheet-group-desk",
+    "session-goal-windows",
+    "ulysses-2026",
+    "how-to-install-ulysses",
+    "ulysses-desktop-package",
+    "epub-docx-suite",
+    "keyword-filter-tools",
+    "long-draft-premium",
+    "ulysses-premium-edition"
+  ],
+  "site": "toolix.me"
+}
